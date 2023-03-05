@@ -14,6 +14,13 @@
       <ul class="character-grid" v-if="!!characters.length">
         <li v-for="character in characters" :key="character.id">
           <div class="card-character" @click="goToDetail(character.id)">
+            <q-tooltip
+              anchor="top middle"
+              self="bottom middle"
+              :offset="[10, 10]"
+            >
+              <strong>Clique para mais detalhes!</strong>
+            </q-tooltip>
             <div class="card-inner">
               <div class="card-front">
                 <p class="card-name">{{ character.name }}</p>

@@ -12,7 +12,7 @@
             @click="toggleLeftDrawer"
           />
 
-          <q-toolbar-title> Rick Morty APP </q-toolbar-title>
+          <q-toolbar-title> Rick & Morty Project </q-toolbar-title>
         </q-toolbar>
       </q-header>
     </RouterLink>
@@ -65,6 +65,14 @@
 
     <q-page-container class="default-content">
       <router-view />
+      <!-- place QPageScroller at end of page -->
+      <q-page-scroller
+        position="bottom-right"
+        :scroll-offset="150"
+        :offset="[18, 18]"
+      >
+        <q-btn fab icon="keyboard_arrow_up" style="background: #00c3dd" />
+      </q-page-scroller>
     </q-page-container>
   </q-layout>
 </template>

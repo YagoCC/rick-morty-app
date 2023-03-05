@@ -1,4 +1,4 @@
-Confira a (https://rick-morty-app-khaki.vercel.app/#/ "DEMO")
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 Consumindo a API em GraphQL da série de animação Rick and Morty desenvolvi esse projeto com o intuito de treinar minhas habilidades em Vue, Typescript, SASS com a adição do Framework QUASAR.
 

@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/60805146/222951087-6318d38c-14c3-4623-a101-4b557413893b.png" width="200" />
 
+<img src="https://user-images.githubusercontent.com/60805146/222954093-cc64a91f-9575-4898-b888-cdf479b041fc.png" width="200" />
+
 Confira a <a href="https://rick-morty-app-khaki.vercel.app/" target="_blank">DEMO</a>
 
 Consumindo a API em GraphQL da série de animação Rick and Morty desenvolvi esse projeto com o intuito de treinar minhas habilidades em Vue, Typescript, SASS com a adição do Framework QUASAR.

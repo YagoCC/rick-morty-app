@@ -1,3 +1,5 @@
+# RICK & MORTY PROJECT
+
 <img src="https://user-images.githubusercontent.com/60805146/222951087-6318d38c-14c3-4623-a101-4b557413893b.png" width="200" />
 
 Confira a <a href="https://rick-morty-app-khaki.vercel.app/" target="_blank">DEMO</a>

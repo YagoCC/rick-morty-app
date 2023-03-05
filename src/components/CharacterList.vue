@@ -17,6 +17,7 @@
             <q-tooltip
               anchor="top middle"
               self="bottom middle"
+              class="desktop-only"
               :offset="[10, 10]"
             >
               <strong>Clique para mais detalhes!</strong>
